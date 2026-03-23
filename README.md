@@ -5,7 +5,7 @@ A machine learning web app that predicts insurance claim amounts based on a pati
 ---
 
 ## 🚀 Live Demo
-
+https://insurancepredictor1879.streamlit.app/
 
 
 ---
